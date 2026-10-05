@@ -1,2 +1,0 @@
-
-# Quiz application by Mahalakshmi
